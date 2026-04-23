@@ -11,7 +11,7 @@ function App() {
   return (
     <main className="min-h-screen bg-gradient-to-b from-orange-50 via-white to-orange-100 text-neutral-900">
       <Navbar />
-      <div className="mx-auto max-w-6xl px-4 py-8 md:px-8">
+      <div className="mx-auto w-full max-w-screen-2xl px-4 py-8 md:px-8">
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/about" element={<AboutPage />} />
