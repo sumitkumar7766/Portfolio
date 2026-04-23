@@ -1,32 +1,44 @@
-# Sumit Kumar Portfolio
+# Sumit Kumar - Developer Portfolio
 
-Personal portfolio website built with React, Vite, Tailwind CSS, and Framer Motion.
+A modern personal portfolio built to showcase my skills, projects, experience, and contact details in a clean, responsive, and animated interface.
 
-## Features
+## 🌐 Live Demo
 
-- Orange and white color theme with soft orange card shade
-- Enlarged profile photo in hero section
-- Mobile-first responsive layout
-- Left-to-right section slide animations
-- Resume-based content for skills, experience, education, projects, and achievements
+Explore my portfolio live and see the projects in action:  
+🔗 **[View Portfolio](https://portfolio-git-main-sumitkumarjaimahakaal-8542s-projects.vercel.app/)**
 
-## Local Development
+
+## Tech Stack
+
+- React + Vite
+- Tailwind CSS
+- Framer Motion
+- React Router
+
+## Key Highlights
+
+- Responsive layout for mobile, tablet, and desktop
+- Dedicated pages for About, Skills, Projects, Experience, and Contact
+- Smooth animations and transitions for better user experience
+- Professional UI with clear content structure
+
+## Run Locally
 
 ```bash
 npm install
 npm run dev
 ```
 
-## Build
+## Production Build
 
 ```bash
 npm run build
 npm run preview
 ```
 
-## GitHub + Vercel Auto Deploy
+## Deployment (Vercel)
 
-1. Push this project to a GitHub repository.
-2. In Vercel, click **Add New > Project** and import the same GitHub repo.
-3. Keep framework preset as **Vite** and deploy once.
-4. After this, every push to your selected GitHub branch will auto-deploy on Vercel.
+1. Push your code to GitHub.
+2. Import the repository in Vercel.
+3. Use the default **Vite** framework settings.
+4. Deploy and enable automatic deployments from your selected branch.
